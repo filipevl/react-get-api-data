@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "busca-ativa",
   "version": "0.1.0",
   "private": true,
@@ -24,12 +25,6 @@
     "eject": "react-scripts eject",
     "prepare": "husky",
     "pretty": "prettier --write ."
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
